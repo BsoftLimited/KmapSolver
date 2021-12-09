@@ -1,0 +1,15 @@
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\KmapSolver.csprojResolveAssemblyReference.cache
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\App.g.cs
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\KmapSolver_MarkupCompile.cache
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\bin\Debug\KmapSolver.exe.config
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\bin\Debug\KmapSolver.exe
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\bin\Debug\KmapSolver.pdb
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\KmapSolver.g.resources
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\KmapSolver.exe
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\KmapSolver.pdb
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\Root.baml
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\Root.g.cs
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\Manual.baml
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\Manual.g.cs
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\About.baml
+C:\Users\okelekele kiensue\Documents\SharpDevelop Projects\KmapSolver\KmapSolver\obj\Debug\About.g.cs

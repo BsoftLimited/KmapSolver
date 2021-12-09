@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels />
+    <!-- CSDL content -->
+    <edmx:ConceptualModels />
+    <!-- C-S mapping content -->
+    <edmx:Mappings />
+  </edmx:Runtime>
+  <DesignerViews />
+</edmx:Edmx>
